@@ -1,0 +1,151 @@
+*{
+margin: 0px;
+}
+
+body{
+font-family: 'Montserrat', sans-serif;
+}
+
+.second_page_bckc{
+
+width: 100%;
+height: 850px;
+background: linear-gradient(90deg, #4DA6C2 20.44%, #5F12D0 80.91%), #C4C4C4;	
+}
+
+.images{
+text-align: center;	
+padding-top: 200px;
+}
+/*Картинка 1*/
+.img1{
+display: inline-block;
+margin-right: 35px;
+position: relative;
+margin-left: 100px;
+right: 50px;
+}
+
+.p1{
+position:relative;
+top: -200px;
+z-index: 9999;
+color: red;
+}
+
+.p1_cost{
+position:relative;
+top: -50px;
+z-index: 9999;
+color: red;	
+}
+/*Картинка 2*/
+.img2{
+display: inline-block;
+margin-right: 35px;
+position: relative;
+margin-left: 100px;
+right: 50px;
+}
+
+.p2{
+position:relative;
+top: -200px;
+z-index: 9999;
+color: red;
+}
+
+.p2_cost{
+position:relative;
+top: -50px;
+z-index: 9999;
+color: red;	
+}
+/*Картинка 3*/
+.img3{
+display: inline-block;
+margin-right: 35px;
+position: relative;
+margin-left: 100px;
+right: 50px;
+}
+
+.p3{
+position:relative;
+top: -200px;
+z-index: 9999;
+color: red;
+}
+
+.p3_cost{
+position:relative;
+top: -50px;
+z-index: 9999;
+color: red;	
+}
+/*Картинка 4*/
+.img4{
+display: inline-block;
+margin-right: 35px;
+position: relative;
+margin-left: 100px;
+right: 50px;
+}
+
+.p4{
+position:relative;
+top: -200px;
+z-index: 9999;
+color: red;
+}
+
+.p4_cost{
+position:relative;
+top: -50px;
+z-index: 9999;
+color: red;	
+}
+
+a{
+display: inline-block;
+color: white;
+text-decoration: none;
+text-align: center;
+padding: .5em 6em;
+outline: none;
+border-width: 2px 0;
+border-style: solid none;
+border-color: #FDBE33 #000 #D77206;
+background: linear-gradient(#F3AE0F, #E38916) #E38916;
+transition: 0.2s;
+width:10px;
+height: 30px;
+}
+
+h3{
+font-family: Montserrat;
+font-style: normal;	
+text-align: center;
+color: white;
+padding-top: 10px;
+}
+
+.lorem_p{
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+text-align: center;
+color: white;
+padding-top: 30px;
+padding-bottom: 10px;
+
+}
+
+.border_line{
+width: 1250px;
+border: 3px solid orange;
+margin: 0 auto;
+margin-top: 50px;
+}
